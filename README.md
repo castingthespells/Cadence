@@ -128,7 +128,7 @@
 ## 安装与重新编译
 
 ```bash
-git clone https://github.com/<your-name>/Cadence.git
+git clone https://github.com/castingthespells/Cadence.git
 cd Cadence
 ./build.sh                          # 输出 Cadence.app
 cp -R Cadence.app /Applications/    # 安装
